@@ -11,3 +11,5 @@ Danilo Leocata -- github @khalld# react-quizgame
   <img src="https://github.com/khalld/react-quizgame/blob/images/3.png" width="350" title="3">
   <img src="https://github.com/khalld/react-quizgame/blob/images/4.png" width="350" title="4">
 </p>
+
+[Snack] (https://snack.expo.io/@khal_d/quizgame)
